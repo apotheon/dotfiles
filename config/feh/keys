@@ -1,0 +1,16 @@
+toggle_pause space
+scroll_left h
+scroll_right l
+scroll_up k
+scroll_down j
+prev_img H
+next_img L
+orient_3 J
+orient_1 K
+jump_first I
+jump_last A
+zoom_in greater
+zoom_out less
+remove x
+close D
+save_filelist w
